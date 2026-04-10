@@ -1,11 +1,11 @@
 <h1>Hi! 👋</h1>
 <h3>I'm Ilai, a full-stack web developer.</h4>
 
-I live in Xalapa, Veracruz 🇲🇽. Fluent in Spanish (primary language) and English. I'm available for any work you need.
+I live in Xalapa, Veracruz 🇲🇽. Fluent in Spanish (primary language) and English. I'm available for work.
 
-With over six years of experience in the JavaScript ecosystem, i'm efficient in writing both backend and frontend apps, while also learning new skills and languages like Go, Rust and C++ *(sometimes i do some low-level stuff!)*
+With over six years of experience in the JavaScript ecosystem, I'm efficient in writing both backend and frontend apps, while also learning new skills and languages like Go and C++ *(sometimes I do some cool low-level stuff)*
 
-I have experience in lots of technologies and continue learning next-gen frameworks. *Too many to mention here!*
+I have experience in lots of web technologies, *too many to mention here!*
 
 **📫 Contact:**
 * Discord: `@soyilai`
