@@ -19,5 +19,5 @@ I have experience in lots of web technologies, *too many to mention here!*
 <ul><li><a href="https://soyilai.vercel.app/blog/anothertest">Why this?</a></li>Yet another test<li><a href="https://soyilai.vercel.app/blog/test">Testing</a></li>This is a test</ul>
 <!--feedend--->
 
-**📊 Statics:**<br/>
+**📊 Stats:**<br/>
 ![Stats](./profile/wakatime.svg)
