@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="387.345"
+            width="398.5514999999999"
             height="8"
             fill="#f34b7d"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="387.345"
+            x="398.5514999999999"
             y="0"
-            width="31.155"
+            width="26.644500000000004"
             height="8"
             fill="#e34c26"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="418.5"
+            x="425.1959999999999"
             y="0"
-            width="21.203999999999997"
+            width="18.135"
             height="8"
             fill="#DA3434"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="439.704"
+            x="443.3309999999999"
             y="0"
-            width="10.9275"
+            width="9.346499999999999"
             height="8"
             fill="#858585"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="450.6315"
+            x="452.6774999999999"
             y="0"
-            width="8.37"
+            width="7.1610000000000005"
             height="8"
             fill="#427819"
           />
@@ -177,9 +177,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="459.0015"
+            x="459.8384999999999"
             y="0"
-            width="4.4175"
+            width="3.7665"
             height="8"
             fill="#3572A5"
           />
@@ -188,7 +188,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ - 4 hrs 42 mins
+        C++ - 5 hrs 39 mins
       </text>
     </g>
   
