@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="140"
-        viewBox="0 0 495 140"
+        height="115"
+        viewBox="0 0 495 115"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,17 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="336.6135"
-            height="8"
-            fill="#f34b7d"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="336.6135"
-            y="0"
-            width="109.5075"
+            width="380.46299999999997"
             height="8"
             fill="#083fa1"
           />
@@ -147,32 +137,25 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="446.121"
+            x="380.46299999999997"
             y="0"
-            width="18.692999999999998"
+            width="84.537"
             height="8"
-            fill="#DA3434"
+            fill="#f34b7d"
           />
         
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ - 1 hr 41 mins
+        Markdown - 28 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 33 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#DA3434" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CMake - 5 mins
+        C++ - 6 mins
       </text>
     </g>
   
