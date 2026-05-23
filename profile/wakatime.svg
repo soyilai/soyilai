@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="397.1565"
+            width="425.98650000000004"
             height="8"
             fill="#f34b7d"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="397.1565"
+            x="425.98650000000004"
             y="0"
-            width="65.193"
+            width="35.944500000000005"
             height="8"
             fill="#DA3434"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="462.3495"
+            x="461.93100000000004"
             y="0"
-            width="1.5810000000000002"
+            width="1.8135"
             height="8"
             fill="#858585"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="463.9305"
+            x="463.7445"
             y="0"
-            width="1.0695000000000001"
+            width="1.2555"
             height="8"
             fill="#083fa1"
           />
@@ -168,14 +168,14 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ - 7 hrs 2 mins
+        C++ - 6 hrs 31 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#DA3434" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CMake - 1 hr 9 mins
+        CMake - 33 mins
       </text>
     </g>
   
