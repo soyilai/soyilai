@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="417.01200000000006"
+            width="425.28899999999993"
             height="8"
             fill="#f34b7d"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="417.01200000000006"
+            x="425.28899999999993"
             y="0"
-            width="43.431000000000004"
+            width="35.711999999999996"
             height="8"
             fill="#DA3434"
           />
@@ -147,35 +147,25 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="460.44300000000004"
+            x="461.0009999999999"
             y="0"
-            width="2.046"
+            width="2.2784999999999997"
             height="8"
             fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="462.48900000000003"
-            y="0"
-            width="1.395"
-            height="8"
-            fill="#083fa1"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ - 5 hrs 40 mins
+        C++ - 5 hrs 9 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#DA3434" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CMake - 35 mins
+        CMake - 26 mins
       </text>
     </g>
   
@@ -183,13 +173,6 @@
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Other - 1 min
-      </text>
-    </g>
-  
-    <g transform="translate(230, 50)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 1 min
       </text>
     </g>
   
