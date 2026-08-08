@@ -16,7 +16,7 @@ I have experience in lots of web technologies, *too many to mention here!*
 **📑 Latest Blog Posts:**
 
 <!--feedstart--->
-<ul><li><a href="https://soyilai.vercel.app/blog/schoolhackwriteup">I Hacked My School</a></li>The Great Grade Heist of 2026<li><a href="https://soyilai.vercel.app/blog/anothertest">Why this?</a></li>Yet another test<li><a href="https://soyilai.vercel.app/blog/test">Testing</a></li>This is a test</ul>
+<ul><li><a href="https://soyilai.vercel.app/blog/gaslit-emui-mediacontrol">I Gaslit EMUI Into Adding My Media Player</a></li>Why did I have to do that in the first place?<li><a href="https://soyilai.vercel.app/blog/schoolhackwriteup">I Hacked My School</a></li>The Great Grade Heist of 2026<li><a href="https://soyilai.vercel.app/blog/anothertest">Why this?</a></li>Yet another test<li><a href="https://soyilai.vercel.app/blog/test">Testing</a></li>This is a test</ul>
 <!--feedend--->
 
 **📊 Stats:**<br/>
